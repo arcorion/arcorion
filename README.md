@@ -1,4 +1,4 @@
-I am filling this in so that GitHub won't bother me about a profile.  Maybe later I'll actually add something.
+Heya, I'm Arc Orion, aka Christopher Lee Crader.  I tinker with coding while learning general tech stuff.  Most of my repos are fairly specific to my needs, but feel free to check things out!
 
 <!---
 arcorion/arcorion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
